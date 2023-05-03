@@ -1,7 +1,7 @@
 <h3>Service Oriented Developer</h3>
 <span>I want to be a developer who helps where necessary while understanding the development process of the entire service.</span>
 
-<br/>
+<br/><br/>
 
 <span>Hi, I'm a curious front-end developer.</span><br/>
 <span>- Worked at blockchain labs that developed COOV, a digital vaccine pass.</span><br/>
