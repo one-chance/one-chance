@@ -18,22 +18,6 @@ I want to be a developer who helps where necessary while understanding the devel
 
 <br/>
 
-### < Skills >
-
-#### - Core: React, TypeScript, Next.js, HTML/CSS
-
-#### - State: Recoil, React-Query
-
-#### - Styling: Emotion, Tailwind
-
-#### - Build: Webpack, Vite
-
-#### - Analysis: Google Analytics 4, Google Tag Manager
-
-#### - Extra: Node.js, Nest.js, Firebase, AWS, Flutter
-
-<br/>
-
 ### < Contacts >
 
 <div style="display:flex; gap:8px;">
