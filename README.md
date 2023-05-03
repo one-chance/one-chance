@@ -1,5 +1,5 @@
-<span style="font-weight:bold; font-size:20px">Service Oriented Developer</span><br/>
-<span>I want to be a developer who helps where necessary while understanding the development process of the entire service.</span>
+<h4 style="font-weight:bold; font-size:20px">Service Oriented Developer</h4>
+I want to be a developer who helps where necessary while understanding the development process of the entire service.
 
 <br/>
 
