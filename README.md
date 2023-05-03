@@ -1,6 +1,7 @@
-## Service Oriented Developer
+<span style="font-weight:bold; font-size:20px">Service Oriented Developer</span><br/>
+<span>I want to be a developer who helps where necessary while understanding the development process of the entire service.</span>
 
-#### I want to be a developer who helps where necessary while understanding the development process of the entire service.
+<br/>
 
 <span>Hi, I'm a curious front-end developer.</span><br/>
 <span>- Worked at blockchain labs that developed COOV, a digital vaccine pass.</span><br/>
