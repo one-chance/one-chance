@@ -1,10 +1,8 @@
 ## Service Oriented Developer
 
-I want to be a developer who helps where necessary while understanding the development process of the entire service.
+#### I want to be a developer who helps where necessary while understanding the development process of the entire service.
 
 <br/>
-
-### < Introduction >
 
 #### Hi, I'm a curious front-end developer.
 
@@ -17,8 +15,6 @@ I want to be a developer who helps where necessary while understanding the devel
 #### - Recently, interested in functional programming and flutter.
 
 <br/>
-
-### < Contacts >
 
 <div style="display:flex; gap:8px;">
 <a href="https://www.linkedin.com/in/%EC%9B%90%EC%B0%AC-%EC%9D%B4-562681130/" target="_blank"><img src="https://img.shields.io/badge/WonChan Lee-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
