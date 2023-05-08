@@ -1,5 +1,6 @@
 <h3>Service Oriented Developer</h3>
-<span>I want to be a developer who helps where necessary while understanding the development process of the entire service.</span>
+<span>I want to become a developer who understands the entire development process of the service and provides appropriate help.</span>
+
 
 <br/><br/>
 
