@@ -10,8 +10,8 @@
 <span>- Also, good at making and improving web applications.</span><br/>
 <span>- Recently, interested in functional programming and flutter.</span>
 
-<a href="https://www.linkedin.com/in/%EC%9B%90%EC%B0%AC-%EC%9D%B4-562681130/" target="_blank"><img src="https://img.shields.io/badge/WonChan Lee-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="mailto:woody.front@gmail.com" target="_blank"><img src="https://img.shields.io/badge/woody.front@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EC%9B%90%EC%B0%AC-%EC%9D%B4-562681130/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:woody.front@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!---
 one-chance/one-chance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
